@@ -84,6 +84,7 @@ Database relationship management
 Authentication implementation
 Debugging server error
 
+## System structure
 BS4/
 ├── backend/
 │   ├── package.json
