@@ -84,3 +84,25 @@ Database relationship management
 Authentication implementation
 Debugging server error
 
+BS4/
+├── backend/
+│   ├── package.json
+│   └── package-lock.json
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   └── vite.config.js
+├── index.js
+├── package.json
+└── README.md
